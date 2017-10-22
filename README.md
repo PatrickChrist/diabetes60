@@ -1,2 +1,3 @@
-# diabetes60
-Repository for the Diabetes60 dataset
+# Diabetes60 Dataset
+Data will be released after ICCV 2017 conference.
+
